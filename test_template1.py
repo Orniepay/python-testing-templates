@@ -14,7 +14,6 @@ def main():
 
 
 def test_square():
-    # Simulate PyCharm's test session header
     print("\n============================= Test Session Starts ==============================")
     
     test_cases = [
@@ -43,14 +42,14 @@ def test_square():
             failed += 1
         print()  # Spacing between tests
 
-    # Simulate PyCharm's test summary
+
     print(f"\n=========================== short test summary info ===========================")
     print(f"\033[32m{passed} passed\033[0m", end="")
     if failed > 0:
         print(f", \033[31m{failed} failed\033[0m", end="")
     print(f" in 0.02s\n")
 
-    # Simulate PyCharm's closing banner
+    
     print("============================== Test Session Ends ===============================")
 
 
