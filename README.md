@@ -1,8 +1,8 @@
 ## Python testing template...
 
-script that displays animated progress, green checkmarks for passes, and red Xs for failures-just like PyCharm, but right in the VSC terminal.
+- Script that displays animated progress, green checkmarks for passes, and red Xs for failures-just like PyCharm, but right in the VSC terminal.
 
-Do not forget to pip install the relevant dependencies and modify the code/files for testing accordingly...
+- Do not forget to pip install the relevant dependencies and modify the code/files for testing accordingly...
 
 ![image](https://github.com/user-attachments/assets/00f9fce3-7cd1-48df-b69a-23fe0ca8aebd)
 <br><br>
